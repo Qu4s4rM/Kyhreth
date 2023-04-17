@@ -34,8 +34,8 @@
             display: block;
             white-space: nowrap;
             border-right: 4px solid;
-            width: 40ch;
-            animation: typing 3s infinite alternate steps(40), blink 0.5s infinite step-end alternate;
+            width: 36ch;
+            animation: typing 4s infinite alternate steps(36), blink 0.5s infinite step-end alternate;
             overflow: hidden;
           }
           .class-span-2 {
