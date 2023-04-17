@@ -3,10 +3,12 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
         <style>
           @keyframes typing {
-            from { 
+            0% { 
               width: 0;
             }
-          }
+            100% {
+              width: 100%;
+            }
           @keyframes blink {
             50% {
               border-color: transparent;
