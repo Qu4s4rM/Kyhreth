@@ -13,7 +13,7 @@
             }
           }
           * {
-            font-family: 'Ubuntu', sans-serif;
+            font-family: consolas;
             color: #ffffff;
             font-size: 20;
             user-select: none;
