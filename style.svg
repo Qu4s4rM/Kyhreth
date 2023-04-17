@@ -31,7 +31,6 @@
             align-items: center;
             justify-content: center;
           }
-          !--
           .class-span-1 {
             color: #23cc69;
             display: block;
