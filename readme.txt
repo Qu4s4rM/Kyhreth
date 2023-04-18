@@ -1,5 +1,8 @@
-# esto va en el archivo readme
+# esto va en el archivo readme.md
 
+<div style="width: 100%;">
+  <img src="style.svg" style="width: 100%; height: 100%;">
+</div>
 
 # esto va en el archivo style.svg:
 
