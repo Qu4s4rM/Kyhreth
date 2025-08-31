@@ -1,3 +1,1 @@
-<div style="width: 100%;">
-  <img src="style.svg" style="width: 100%; height: 100%;">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
