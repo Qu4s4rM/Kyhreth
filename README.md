@@ -1,6 +1,7 @@
 <h1 align="center">🌌 QU4SRM 🌌</h1>
 
 ### 👤 About Me
+
 <p align="center">
   ⚡ <b>Ethical Hacker</b> ☄️ <b>Programmer</b>
 </p>
@@ -14,6 +15,16 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,arch,bash,git,github,html,css,js,react,vscode,vim" />
+</p>
+
+---
+
+### HTB profile
+
+<p align="center">
+  <a href="https://app.hackthebox.com/users/1012903">
+    <img src="https://www.hackthebox.eu/badge/image/1012903" alt="Hack The Box Badge">
+  </a>
 </p>
 
 ---
