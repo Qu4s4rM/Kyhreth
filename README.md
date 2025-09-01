@@ -3,10 +3,10 @@
 ### 👤 About Me
 
 <p align="center">
-  ⚡ <b>Ethical Hacker</b> ☄️ <b>Programmer</b>
+  ⚡ <b>Ethical Hacker</b> ☄️ <b>Programmer</b> 🛡️ <b>Cybersecurity</b>
 </p>
 <p align="center">
-  🚀 Passionate about <b>cybersecurity, code, and the universe</b> 
+  🚀 Passionate about <b>linux, code, and the universe</b> 
 </p>
 
 ---
