@@ -6,7 +6,7 @@
   ⚡ <b>Ethical Hacker</b> ☄️ <b>Programmer</b> 🛡️ <b>Cybersecurity</b>
 </p>
 <p align="center">
-  🚀 Passionate about <b>linux, code, and the universe</b> 
+  🚀 Passionate about <b>linux, code, and the universe</b>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 ---
 
-### HTB profile
+### 📦 HTB profile
 
 <p align="center">
   <a href="https://app.hackthebox.com/users/1012903">
@@ -38,7 +38,7 @@
 
 ---
 
-### 🚀 Cosmic Quote
+### 🔭 Cosmic Quote
 > *"We are all made of star stuff."* – Carl Sagan  
 
 ---
